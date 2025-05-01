@@ -1,0 +1,1 @@
+Run the parta_RNN.py directly.

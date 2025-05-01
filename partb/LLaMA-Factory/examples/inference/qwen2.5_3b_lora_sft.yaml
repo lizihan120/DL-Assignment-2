@@ -1,0 +1,5 @@
+model_name_or_path: /home/yaodong/codes/deepLearning/partb/Qwen2.5-3B-Instruct
+adapter_name_or_path: /home/yaodong/codes/deepLearning/partb/saves/qwen2.5-3B-Instruct/lora/sft/
+template: qwen
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true
